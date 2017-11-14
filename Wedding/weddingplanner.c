@@ -147,5 +147,5 @@ void all(numguest,numt,numinvi,numcoke,numwater){
 		invicost(numinvi);
 		drinkscost(numcoke,numwater);		
 	}
-}
+}//MS
 
