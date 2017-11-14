@@ -143,3 +143,4 @@ int lineCounter(char file[]){
 	return count;	
 }//MS
 
+
