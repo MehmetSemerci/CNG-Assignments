@@ -286,4 +286,4 @@ int main(){																		/*In this code I m working on decimals */
 	
 	
 	return 0;
-}
+}//
