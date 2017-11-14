@@ -141,5 +141,5 @@ int lineCounter(char file[]){
 	}
 	fclose(record);	
 	return count;	
-}
+}//MS
 
