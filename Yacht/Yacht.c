@@ -605,3 +605,4 @@ int scoreSheet(int score,int total){
 	printf("Your score is: %d and your total is: %d\n",score,total);			//scoresheet
 	return total;
 }//MS
+
